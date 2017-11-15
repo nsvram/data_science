@@ -1,6 +1,6 @@
 # data_science
 
-User: Paul Ganzon docker image
+User: docker image
 
 Docker image - with user id and password and volume mount:
 
